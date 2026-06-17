@@ -1,29 +1,25 @@
-# Cloud Security Checklist
+## Cloud Security Application
 
-## Overview
-This project demonstrates cloud security concepts and best practices using Java.
+This project implements a simple cloud security system using Java.
 
-## Features
-
-- Password Strength Validation
-- Role-Based Access Control
+Features:
+- Password Validation
+- Authentication
+- Role Based Access Control (RBAC)
 - Data Encryption
-- Security Log Monitoring
-- Cloud Security Checklist
+- Security Logging
 
-## Technologies Used
-
-- Java
-- Cloud Security Concepts
-- GitHub
-
-## Project Structure
+Workflow:
+User Login → Password Validation → Access Control → Data Encryption → Log Monitoring
 
 Cloud-Security-Checklist
+│
 ├── README.md
 ├── checklist.md
 ├── report.md
+│
 └── src
+    └── CloudSecuritySystem.java
 
 ## Author
 
