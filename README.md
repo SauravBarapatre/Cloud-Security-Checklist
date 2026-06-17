@@ -1,32 +1,32 @@
 # Cloud Security Checklist
 
 ## Overview
+This project demonstrates cloud security concepts and best practices using Java.
 
-This project presents a Cloud Security Checklist for a fictional company. The checklist focuses on important security practices that help protect cloud resources, data, and applications from potential threats.
+## Features
 
-## Objectives
+- Password Strength Validation
+- Role-Based Access Control
+- Data Encryption
+- Security Log Monitoring
+- Cloud Security Checklist
 
-* Understand cloud security risks
-* Apply security best practices
-* Protect data and cloud resources
-* Improve overall cloud security
+## Technologies Used
 
-## Topics Covered
+- Java
+- Cloud Security Concepts
+- GitHub
 
-* User Access Management
-* Data Protection
-* Network Security
-* Storage Security
-* Monitoring and Logging
-* Backup and Recovery
-* Incident Response
-* Security Awareness
+## Project Structure
 
-## Project Files
+Cloud-Security-Checklist
+├── README.md
+├── checklist.md
+├── report.md
+└── src
 
-* `README.md` – Project overview
-* `checklist.md` – Detailed cloud security checklist
+## Author
 
-## Conclusion
-
-Following a cloud security checklist helps organizations reduce security risks, protect sensitive data, and maintain a secure cloud environment.
+Saurav Barapatre
+B.Tech CSE
+VIT University
